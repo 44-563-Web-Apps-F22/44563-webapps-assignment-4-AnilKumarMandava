@@ -115,25 +115,25 @@
 #singers {
     margin-top: 10px;
     margin-left:15px;
-    border:5px solid brown;
+    border:5px solid rgb(73, 42, 165);
     border-collapse: separate;
     box-sizing:border-box;
     }
 #singers th{
-    color:red;
+    color:rgb(188, 63, 63);
     text-align: center;
     padding:20px;
-    border:5px solid darkgray;
+    border:5px solid rgb(162, 227, 113);
     }
 #singers td{
-    color:darkgreen;
+    color:rgb(220, 220, 82);
     text-align: center;
     padding: 25px;
     border-bottom: 10px;
     }
 #singers th {
-    background-color:gold;
+    background-color:rgb(161, 185, 74);
     }  
 #singers tr:nth-child(even){
-    background-color:aquamarine;
+    background-color:rgb(209, 83, 83);
 }
